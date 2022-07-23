@@ -179,6 +179,12 @@ a {
     img {
         height: 30px;
         width: 30px;
+        transition: height 0.2s, width 0.2s;
+        cursor: pointer;
+    }
+    img:hover {
+        height: 60px;
+        width: 60px;
     }
     .dondeEstamos a{
         text-decoration: none;

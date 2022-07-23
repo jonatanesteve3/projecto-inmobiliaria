@@ -88,7 +88,14 @@ footer ul li a {
     position: fixed;
     bottom: 10px;
     right: 10px;
+    cursor: pointer;
+    transition: width 0.2s;
 }
+
+img:hover {
+width: 90px;
+}
+
 @media (max-width:824px) {
     header {
         display: none;
