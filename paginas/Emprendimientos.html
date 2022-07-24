@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,12 +8,15 @@
     <title>Emprendimientos</title>
     <link rel="stylesheet" href="estilopaginas.css">
     <link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/2159/2159882.png" type="image/x-icon">
-        <!-- fuente -->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&family=Roboto:wght@100&display=swap"
-            rel="stylesheet">
+    <!-- fuente -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&family=Roboto:wght@100&display=swap"
+        rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 </head>
+
 <body>
     <header>
         <!-- barra de busqueda -->
@@ -30,24 +34,31 @@
     </header>
     <!-- SECTIONS -->
     <section class="almacen">
-        <div class="mitad1"></div>
-        <div class="mitad2">
+        <div class="mitad1" data-aos="fade-down"></div>
+        <div class="mitad2" data-aos="fade-up"
+        data-aos-anchor-placement="top-bottom">
             <p>Edificio</p>
             <h2>Krazo Select</h2>
             <ul class="texto">
-                <li>Excelente Emprendimiento en Tucuman. Departamentos semi pisos de 4 ambientes con y sin dependencia de servicio. Balcón terraza con parrilla propia. Calidad Premium.</li>
+                <li>Excelente Emprendimiento en Tucuman. Departamentos semi pisos de 4 ambientes con y sin dependencia
+                    de servicio. Balcón terraza con parrilla propia. Calidad Premium.</li>
             </ul>
         </div>
     </section>
-        <!-- PIE DE PAGINA -->
-        <footer>Pagina creada por Jonatan Esteve todos los derechos reservados
-            <nav>
-                <ul>
-                    <li><i class="fab fa-instagram"></i><a href="">Instagram</a></li>
-                    <li><i class="fab fa-facebook"></i><a href="">Facebook</a></li>
-                    <li><i class="fab fa-twitter"></i><a href="">Twitter</a></li>
-                </ul>
-            </nav>
-        </footer>
+    <!-- PIE DE PAGINA -->
+    <footer>Pagina creada por Jonatan Esteve todos los derechos reservados
+        <nav>
+            <ul>
+                <li><i class="fab fa-instagram"></i><a href="">Instagram</a></li>
+                <li><i class="fab fa-facebook"></i><a href="">Facebook</a></li>
+                <li><i class="fab fa-twitter"></i><a href="">Twitter</a></li>
+            </ul>
+        </nav>
+    </footer>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
 </body>
+
 </html>
