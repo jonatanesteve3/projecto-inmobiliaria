@@ -3,10 +3,10 @@
     padding: 0;
 }
 
-body {
+/* body {
     width: 100%;
     height: 100%;
-}
+} */
 
 .BarraDeBusqueda {
     background-color: #1946a0;
@@ -200,65 +200,6 @@ aside img {
 
 }
 
-/********************** CSS QUIENES SOMOS ***********************************/
-.padre {
-    display: grid;
-    gap: 10px;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-areas:
-        "area1 area2 area3"
-        "area4 area5 area6"
-        "area7 area8 area9"
-    ;
-}
-
-.area1 {
-    grid-area: area1;
-    font-size: 2rem;
-    text-align: center;
-}
-
-.area2 {
-    font-size: 2rem;
-    grid-area: area2;
-    text-align: center;
-}
-
-.area3 {
-    font-size: 2rem;
-    grid-area: area3;
-    text-align: center;
-}
-
-.area4 {
-    grid-area: area4;
-}
-
-.area5 {
-    grid-area: area5;
-}
-
-.area6 {
-    grid-area: area6;
-}
-
-.padre img {
-    width: 100%;
-    height: 100%;
-}
-
-.area7 {
-    grid-area: area7;
-}
-
-.area8 {
-    grid-area: area8;
-}
-
-.area9 {
-    grid-area: area9;
-}
-
 /***************************************** MEDIA QUERY *****************************************/
 @media (max-width:900px) {
 
@@ -274,41 +215,7 @@ aside img {
     footer {
         margin-top: 0;
     }
-
-    /* MEDIA QUIENES SOMOS */
-    .padre {
-        display: grid;
-        grid-template-columns: 100%;
-    }
-
-    .area3 {
-        display: none;
-    }
-
-    .area6 {
-        display: none;
-    }
-
-    .area2 {
-        display: none;
-    }
-
-    .area5 {
-        display: none;
-    }
-
-    .area7 {
-        display: none;
-    }
-
-    .area8 {
-        display: none;
-    }
-
-    .area9 {
-        display: none;
-    }
-
+    
     /* MEDIA EMPRENDIMIENTOS */
     .almacen {
         display: grid;

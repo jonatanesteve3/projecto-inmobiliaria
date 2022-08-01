@@ -5,8 +5,9 @@
 
 body {
     background-image: url("imagenes para utilizar/fondo para index.jpg");
-    width: 100%;
-    height: 100%;
+    /* width: 100%;
+    height: 100%; */
+    background-size: 100% 100%;
 }
 
 .BarraDeBusqueda {
@@ -17,7 +18,7 @@ body {
 }
 .BarraDeBusqueda1 {
     color: white;
-    margin-right: 50px;
+    margin-right: 40px;
 }
 
 .BarraDeBusqueda2{
@@ -123,7 +124,7 @@ img:hover {
     .hijoAdoptivo3 {
         justify-content: center;
     }
-    .pieDePagina{
-        margin-top: 370px;
+    .pieDePagina {
+    margin-top: 335px;
     }
 }
