@@ -17,7 +17,7 @@ body {
 
 .BarraDeBusqueda1 {
     color: white;
-    margin-right: 50px;
+    margin-right: 40px;
 }
 
 .BarraDeBusqueda2 {
@@ -84,7 +84,7 @@ a {
     color: white;
 }
 
-h2 {
+.mitad2 h2 {
     font-size: 60px;
     margin-top: 10px;
     margin-left: 60px;
@@ -260,7 +260,7 @@ aside img {
 }
 
 /***************************************** MEDIA QUERY *****************************************/
-@media (max-width:820px) {
+@media (max-width:900px) {
 
     /* MEDIA PROPIEDADES */
     .contenedor {
