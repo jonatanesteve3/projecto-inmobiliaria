@@ -1,0 +1,61 @@
+  /**************************************** CSS CONTACTO  *****************************************/
+  .absoluto {
+    display: grid;
+    grid-template-columns: 50% 40%;
+    text-align: center;
+    margin-bottom: 70px;
+  }
+  .boton {
+    color: white;
+    background-color: $color-general;
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .dondeEstamos {
+    font-size: 2rem;
+    margin-left: 60px;
+    p {
+      font-size: 1.5rem;
+      margin-top: 20px;
+      margin-bottom: 30px;
+    }
+    ul li {
+      display: block;
+      text-align: start;
+    }
+  }
+  li img {
+    height: 30px;
+    width: 30px;
+    transition: height 0.2s, width 0.2s;
+    cursor: pointer;
+    &:hover {
+      height: 60px;
+      width: 60px;
+    }
+  }
+  .dondeEstamos a {
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+  }
+  aside {
+    text-align: start;
+    margin-top: 40px;
+    text-align: center;
+    ul {
+      display: flex;
+      justify-content: center;
+    }
+    li {
+      margin-top: 10px;
+    }
+    img {
+      height: 50px;
+      width: 50px;
+    }
+  }

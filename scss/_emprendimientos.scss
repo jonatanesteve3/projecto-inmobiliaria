@@ -1,0 +1,40 @@
+  /****************************** CSS EMPRENDIMIENTOS ********************************************/
+  .almacen {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 30px;
+    margin-bottom: 40px;
+  }
+  .mitad2 p {
+    margin-left: 60px;
+  }
+  .mitad1 {
+    height: 600px;
+    background-image: url('https://imgar.zonapropcdn.com/avisos/1/00/47/70/32/67/720x532/1762553519.jpg');
+    background-size: 100% 100%;
+    margin-left: 50px;
+  }
+  .mitad2 {
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    h2 {
+      font-size: 60px;
+      margin-top: 10px;
+      margin-left: 60px;
+    }
+  }
+  .texto {
+    background-color: black;
+    display: flex;
+    justify-content: start;
+    height: 200px;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 60px;
+    li {
+      font-size: 20px;
+      text-align: justify;
+      display: inline;
+    }
+  }
