@@ -30,10 +30,12 @@ a {
 .adentroImagen {
   display: flex;
   margin: 0;
+  margin-bottom: 40px;
   font-size: 30px;
   flex-flow: row wrap;
   justify-content: center;
-  padding: 200px;
+  padding: 210px;
+  padding-top: 80px;
   padding-bottom: 20px;
   font-family: 'Edu VIC WA NT Beginner', cursive; }
 
@@ -74,7 +76,10 @@ a {
 
 .tituloPagina {
   text-align: center;
-  color: #1946a0; }
+  color: black;
+  margin-bottom: 50px;
+  margin-top: 30px;
+  font-family: 'Edu VIC WA NT Beginner', cursive; }
 
 .subtitulo {
   color: gray;
@@ -91,7 +96,8 @@ a {
   margin-bottom: 40px; }
 
 .mitad2 p {
-  margin-left: 60px; }
+  margin-left: 80px;
+  font-family: 'Edu VIC WA NT Beginner', cursive; }
 
 .mitad1 {
   height: 600px;
@@ -106,7 +112,8 @@ a {
   .mitad2 h2 {
     font-size: 60px;
     margin-top: 10px;
-    margin-left: 60px; }
+    margin-left: 80px;
+    font-family: 'Edu VIC WA NT Beginner', cursive; }
 
 .texto {
   background-color: black;
@@ -115,7 +122,8 @@ a {
   height: 200px;
   width: 300px;
   margin-top: 40px;
-  margin-left: 60px; }
+  margin-left: 50px;
+  font-family: 'Edu VIC WA NT Beginner', cursive; }
   .texto li {
     font-size: 20px;
     text-align: justify;

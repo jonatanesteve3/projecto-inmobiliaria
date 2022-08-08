@@ -30,10 +30,12 @@
   .adentroImagen {
     display: flex;
     margin: 0;
+    margin-bottom: 40px;
     font-size: 30px;
     flex-flow: row wrap;
     justify-content: center;
-    padding: 200px;
+    padding: 210px;
+    padding-top: 80px;
     padding-bottom: 20px;
     font-family: 'Edu VIC WA NT Beginner', cursive;
   }
