@@ -1,58 +1,10 @@
 @import "variables";
+@import "maps";
+@import "extend";
+@import "mixin";
 @import "index";
 @import "propiedades";
 @import "emprendimientos";
 @import "contacto";
-  /* media */
-  @media (max-width: 900px) {
-    .adentroImagen {
-      font-size: 20px;
-      display: inline;
-      padding: 60px;
-    }
-    .padre2 {
-      display: inline;
-    }
-    .hijoAdoptivo1, .hijoAdoptivo2 {
-      margin-bottom: 20px;
-      justify-content: center;
-    }
-    .hijoAdoptivo3 {
-      justify-content: center;
-    }
-    /* media contacto */
-    .absoluto {
-      display: grid;
-      grid-template-columns: 100%;
-    }
-    .dondeEstamos, .textArea {
-      display: none;
-    }
-    /* MEDIA EMPRENDIMIENTOS */
-    .almacen {
-      display: grid;
-      grid-template-columns: 100%;
-    }
-    .mitad1 {
-      display: none;
-    }
-    .texto {
-      display: block;
-      font-size: 15px;
-      margin-left: 10px;
-    }
-    /* MEDIA PROPIEDADES */
-    .contenedor {
-      display: block;
-    }
-    .item {
-      display: none;
-    }
-    footer {
-      margin-top: 0;
-    }
-    /* media quienes somos */
-    .primerCarru, .segundoCarru {
-      display: none;
-    }
-  }
+@import "media";
+@import "acceso";

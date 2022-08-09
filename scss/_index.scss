@@ -3,6 +3,10 @@
     margin: 0;
     padding: 0;
   }
+  body {
+    background-image:url('https://img.freepik.com/free-photo/vintage-grunge-blue-concrete-texture-wall-background-with-vignette_1258-28373.jpg?w=740&t=st=1659931637~exp=1659932237~hmac=a379ec75c2baca386bc3954597e6f44bcdf73389e465ad74f3b2774926fe86b7') ;
+    background-size: 100%;
+  }
   .unico {
     background-image: url("../imagenes para utilizar/fondo para index.jpg");
     width: 100%;
@@ -15,8 +19,7 @@
     font-size: 20px;
   }
   .BarraDeBusqueda1 {
-    color: white;
-    margin-right: 40px;
+  @include personal
   }
   .BarraDeBusqueda2 {
     color: white;

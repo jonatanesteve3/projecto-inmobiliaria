@@ -1,0 +1,7 @@
+
+$estilo: (color:black, tamFuente:25px);
+
+.subtitulo {
+    color: map-get($map: $estilo, $key: color);
+    font-size: map-get($map: $estilo, $key: tamFuente);
+}

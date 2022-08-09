@@ -1,7 +1,7 @@
 var app = document.getElementById('app');
 
 var typewriter = new Typewriter(app, {
-    strings : ['Bienvenidos a Krazo Propiedades', 'Tenemos la vivienda indicada para vos'],
+    strings : ['Krazo Propiedades', 'Tenemos la vivienda perfecta para vos'],
     autoStart: true,
     loop: true,
 });

@@ -1,0 +1,8 @@
+.particular {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-weight: bold;
+}
+.particular2 {
+    @extend .particular;
+    font-size: 25px;
+}
