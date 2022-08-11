@@ -198,6 +198,8 @@ aside {
 
 /* media */
 @media (max-width: 900px) {
+  body {
+    background-size: 900px 1300px; }
   .adentroImagen {
     font-size: 20px;
     display: inline;

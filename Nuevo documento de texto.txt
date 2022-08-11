@@ -1,0 +1,14 @@
+Sume a todos los titulos de cada pagina una descripcion un poco mas extensa pero simple y tambien un orden
+
+Agregue a index un metadescription con la descripcion: "krazo propiedades, propiedades en venta y alquiler en tu zona, desarrollo inmobiliario que se adapta a lo que buscas,inmobiliaria"
+
+Agregue a propiedades metadescription con la descripcion: "Tenemos lo que buscas, propiedades en venta y alquiler en tu zona, la casa soñada, o la oficina perfecta al alcance de un click"
+
+Agregue a emprendimientos metadescription con la descripcion: "Tenemos Emprendimientos en capital federal, cordoba y buenos aires, reserva antes que cualquiera y accede a precios increibles y con descuento">
+
+Agregue a quienes somos metadescription con la descripcion: "Te invitamos a que conozcas nuestra historia, quienes somos, donde comenzamos y que es lo que tenemos para ofrecer"
+
+
+Agregue a contacto metadescription con la descripcion: "Contacta con nosotros, ya sea para una reserva, alquiler o compra, asi tambien como para dudas y sugerencias" 
+
+Agregue a acceso a clientes metadescription con la descripcion: "tenes beneficios exclusivos por haber contratado algun servicio que brinda nuestra empresa, accede y disfruta de estos beneficios."
