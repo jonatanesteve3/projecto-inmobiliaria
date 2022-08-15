@@ -14,7 +14,7 @@
   margin: 0;
   padding: 0; }
 
-body {
+.jona {
   background-image: url("https://img.freepik.com/free-photo/vintage-grunge-blue-concrete-texture-wall-background-with-vignette_1258-28373.jpg?w=740&t=st=1659931637~exp=1659932237~hmac=a379ec75c2baca386bc3954597e6f44bcdf73389e465ad74f3b2774926fe86b7");
   background-size: 110%; }
 
@@ -237,3 +237,6 @@ aside {
   /* media quienes somos */
   .primerCarru, .segundoCarru {
     display: none; } }
+
+.pago {
+  background-color: white; }
