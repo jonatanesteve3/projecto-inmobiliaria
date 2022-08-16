@@ -240,3 +240,10 @@ aside {
 
 .pago {
   background-color: white; }
+
+.imagenPago {
+  transition: height 0.2s, width 0.2s;
+  cursor: pointer; }
+  .imagenPago:hover {
+    height: 80px;
+    width: 90px; }
