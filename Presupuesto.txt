@@ -1,0 +1,32 @@
+OBJETIVO
+
+⦁	Desarrollar una pagina web que pueda informar y atraer a potenciales clientes, brindandoles la oportunidad y la guia necesaria a la hora de la visita, para que puedan, reservar, alquilar o comprar la propiedad que les guste a traves de imagenes e informacion adicional con un metodo de pago simple en caso de reserva.
+
+PLATAFORMAS Y HERRAMIENTAS
+
+⦁	Para desarrollar el codigo se utilizara como plataforma VisualStudio Code, utilizaremos lenguajes de programacion como HTML, CSS, JavaScript, entre otros dependiendo la necesidad de la pagina web en cuestion. Como herramientas de desarrollo utilizaremos git y git hub para poder crear puntos de partidas y guardarlos en un repositorio remoto, en caso de ser necesario volver atras, utilizaremos dichos puntos de partida y reestableceremos la informacion desde ahi, utilizaremos tambien SASS para ordenar la estetica de la pagina (CSS) y ahorrar lineas de codigo creando un sitema puro, simple, facil de entender y facil de modificar.
+
+
+FASES DE DESARROLLO
+
+1.	Diseño y maquetacion Comenzamos maquetando la pagina web del cliente, ofreciendo un diseño base con estructuras y componentes adaptados a las necesidades requeridas, o recreando algun bosquejo previamente entregado por parte del cliente.
+2.	Servicios incluidos Desarrollo y funcionalidad Total de la pagina web, incluye formas de pago, conexiones directas a traves de enlaces a cualquier red social solicitada, whatsapp e email. Hosting para alojar la pagina web en un servidor que pueda proteger la informacion del cliente, mantenimiento, actualizacion de puglins e informacion asociada a la pagina, actualizacion de contenido, cambio de diseño y nuevas paginas hasta un total de 300 lineas de codigo por mantenimiento.
+3.	Capacitacion capacitamos al personal que quedara a cargo del funcionamiento de la pagina web, detallamos paso a paso el contenido y la funcionalidad, explicamos la parte del cliente asi como tambien la del usuario, y brindamos las herramientas y el contacto inmediato en caso de necesitarlo.
+4.	Garantias y soportes Una vez finalizada y entregada la pagina web, los primeros tres meses de funcionalidad vas a contar con una garantia total de tu pagina, esto incluye un mantenimiento mensual gratis y soporte en caso de que puede llegar a haber alguna falla o imprevisto.
+5.	Formas de pago Recibimos todas las tarjetas, aceptamos transferencias y en caso de tarjetas de credito te ofrecemos hasta 6 cuotas sin interes, recibimos tambien pagos a traves de exchange o plataformas de criptomonedas.
+
+ALOJAMIENTO
+
+
+⦁	Ofrecemos varias opciones de alojamiento en donde podras dejar funcionando tu pagina web, estas opciones incluyen seguridad extra dependiendo la informacion que intercambies con tus clientes o si la pagina web es solo a modo informativo.
+
+VALOR, VALIDEZ DE PRESUPUESTO Y CRONOGRAMA DE ENTREGAS
+
+⦁	El valor Total de la Pagina web con todos los servicios ya detallados e incluidos sera de $500 (dolares), a esto se le sumara un mantenimiento mensual con un costo de $70 (dolares) una vez finalizada la garantia.
+⦁	El presupuesto tiene una validez de 30 dias, en caso de expirar dicha validez se debera realizar nuevamente un presupuesto con los precios actualizados.
+⦁	Cronograma de entregas 
+1.	Fase de diseño El cliente verifica la estructura y el diseño base de la pagina web, se acuerdan fuentes, colores y entrega del contenido.
+2.	fase estructural Se entrega el prototipado del proyecto y arquitectura del sitio.
+3.	fase de construccion Se carga parte del contenido y el cliente valida el producto.
+4.	fase de pruebas El cliente prueba su producto y hace las respectivas recomendaciones.
+5.	fase de entrega y puesta en produccion Se sube y configura el sitio en el hosting previamente acordado y se entrega al cliente.
